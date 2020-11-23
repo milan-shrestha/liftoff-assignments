@@ -7,12 +7,39 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Textbooks Re-selling & Swapping App
+
+This app allows college students to buy, sell or swap their textbooks. Students will be able to create posts for their used textbooks to re-sale or swap with other textbooks being offered by fellow students. This app will create an online marketplace for college students.
+
 ### Features
-Include Features here
+
+1. User login: Students will be able to signup for accounts and login to the application. Each student will be able to create a profile page.
+
+2. Create posts: Students will be able to create posts for the textbooks they want to sell. 
+
+3. Search: Students will be able to search for the textbooks.
+
+4. Setup library & wishlist: Each student will be able to create a library of textbooks they own and a wishlist for the books they want to swap for.
+
+5. Swap matches: The app will create swap matches for students based on the books in their libraries and wishlists.
+
 ### Technologies
-Include Technologies here
+
+1. Java
+2. Spring Boot
+3. MySQL
+4. Hibernate
+5. Thymeleaf templates
+6. JavaScript
+7. Bootstrap
+8. HTML
+9. CSS
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+Probable public API integration that allows to retrieve book details based on ISBN.
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/rdzXKTzs/liftoff-capstone-project
