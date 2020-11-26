@@ -8,21 +8,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-Textbooks Re-selling & Swapping App
+Piri- Find your Place
 
-This app allows college students to buy, sell or swap their textbooks. Students will be able to create posts for their used textbooks to re-sale or swap with other textbooks being offered by fellow students. This app will create an online marketplace for college students.
+Piri is an application for people looking to relocate. The app offers information about cities based on factors like cost of living, safety and security ratings, employment prospects, local education etc. Piri supports community-driven approach to provide accurate information about the cities by encouraging local residents to comment and write reviews on the app.
+
+Piri's mission is to help people make informed decision for their new place. The users can search for cities, compare them and view comments and reviews from local people to make the best choice for themselves. 
 
 ### Features
 
-1. User login: Students will be able to signup for accounts and login to the application. Each student will be able to create a profile page.
+1. User login: Users will be able to signup for accounts and login to the application. Each user will be able to create a profile page.
 
-2. Create posts: Students will be able to create posts for the textbooks they want to sell. 
+2. Search: Users will be able to search for cities and see detail information about them.
 
-3. Search: Students will be able to search for the textbooks.
+3. Sort: Users will be able to sort cities based on various factors like cost of living, safety and security ratings, employment prospects, local education etc.
 
-4. Setup library & wishlist: Each student will be able to create a library of textbooks they own and a wishlist for the books they want to swap for.
+4. Compare: Users will be able to compare multiple cities.
 
-5. Swap matches: The app will create swap matches for students based on the books in their libraries and wishlists.
+5. Comments & Reviews: Users will be able to add comments and reviews about their cities.
 
 ### Technologies
 
@@ -38,7 +40,7 @@ This app allows college students to buy, sell or swap their textbooks. Students 
 
 ### What I'll Have to Learn
 
-Probable public API integration that allows to retrieve book details based on ISBN.
+Public API integration to retrieve details about cities.
 
 ### Project Tracker
 
