@@ -4,8 +4,6 @@ For this assignment, you'll create some initial plans for your project.
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
-
 ### Wireframes
 
 * __Home Page__
@@ -22,8 +20,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-https://trello.com/b/rdzXKTzs/liftoff-capstone-project
+[Trello Board](https://trello.com/b/rdzXKTzs/liftoff-capstone-project)
 
 ### Project Repo Link
 
-https://github.com/milan-shrestha/Piri
+[Project GitHub](https://github.com/milan-shrestha/Piri)
