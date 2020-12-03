@@ -6,16 +6,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* __Home Page__
+* Home Page
 ![Home Page](../images/HomePage.jpg)
 
-* __SignUp Page__
+* SignUp Page
 ![Sign Up Page](../images/Signup.jpg)
 
-* __Log In Page__
+* Log In Page
 ![Log In Page](../images/Login.jpg)
 
-* __City Page__
+* City Page
 ![City detail Page](../images/CityPage.jpg)
 
 ### Project Tracker
