@@ -7,15 +7,19 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 * **Home Page**
+
 ![Home Page](../images/HomePage.jpg)
 
 * **SignUp Page**
+
 ![Sign Up Page](../images/Signup.jpg)
 
 * **Log In Page**
+
 ![Log In Page](../images/Login.jpg)
 
 * **City Page**
+
 ![City detail Page](../images/CityPage.jpg)
 
 ### Project Tracker
